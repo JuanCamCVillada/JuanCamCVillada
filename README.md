@@ -14,12 +14,6 @@
 
 <br/>
 
-Hey, soy **Juan** — developer & creator.
-
-Creo que aprender a programar es menos sobre el código y más sobre aprender a pensar. Autodidacta de cabeza a pies, cerrando **Ingeniería de Sistemas** mientras construyo cosas de verdad: apps, contenido, y el camino hacia algo más grande.
-
-<br/>
-
 ## `// STACK`
 
 <p align="center">
