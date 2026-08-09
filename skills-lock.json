@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "apple": {
+      "source": "vercel-labs/emulate",
+      "sourceType": "github",
+      "skillPath": "skills/apple/SKILL.md",
+      "computedHash": "060a2c575f15d97df2d64eb2006ba40f9e5c40c9c041667bf2f6e228bbc1e370"
+    }
+  }
+}

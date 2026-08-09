@@ -14,7 +14,9 @@
 
 <br/>
 
-> *"El caos no es un pozo. El caos es una escalera."* — la ingeniería, como todo sistema complejo, se construye escalón por escalón. Documento mi proceso construyendo software y contenido bajo la marca **DEVBYJUAN**.
+Hey, soy **Juan** — developer & creator.
+
+Creo que aprender a programar es menos sobre el código y más sobre aprender a pensar. Autodidacta de cabeza a pies, cerrando **Ingeniería de Sistemas** mientras construyo cosas de verdad: apps, contenido, y el camino hacia algo más grande.
 
 <br/>
 
@@ -26,15 +28,16 @@
   <img src="https://img.shields.io/badge/-Flutter-111827?style=for-the-badge&logo=flutter&logoColor=42A5F5" alt="Flutter"/>
   <img src="https://img.shields.io/badge/-Dart-111827?style=for-the-badge&logo=dart&logoColor=42A5F5" alt="Dart"/>
   <img src="https://img.shields.io/badge/-Firebase-111827?style=for-the-badge&logo=firebase&logoColor=42A5F5" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/-Figma-111827?style=for-the-badge&logo=figma&logoColor=42A5F5" alt="Figma"/>
-  <img src="https://img.shields.io/badge/-DaVinci%20Resolve-111827?style=for-the-badge&logo=davinciresolve&logoColor=42A5F5" alt="DaVinci Resolve"/>
+  <img src="https://img.shields.io/badge/-Frontend-111827?style=for-the-badge&logo=html5&logoColor=42A5F5" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/-UX%2FUI-111827?style=for-the-badge&logoColor=42A5F5" alt="UX/UI"/>
+  <img src="https://img.shields.io/badge/-AI%20Driven%20Development-111827?style=for-the-badge&logoColor=42A5F5" alt="AI Driven Development"/>
 </p>
 
 <br/>
 
 ## `// CURRENTLY BUILDING`
 
-**FinanceXP** — app de finanzas personales en Flutter Web con gamificación: tu patrimonio neto en COP se convierte en XP 1:1, con asesor de IA (Gemini Flash), integración de TRM en tiempo real y sistema de niveles.
+**FinanceXP** — El cuaderno de registro de tu vida financiera, gamificado: cada dólar que ahorras te sube de nivel. Lo que no se mide, no se controla — FinanceXP hace que medir se sienta como progreso.
 
 <p align="left">
   <a href="https://juanvillada.dev">
@@ -47,11 +50,6 @@
 ## `// SYSTEM METRICS`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juancamcvillada&show_icons=true&theme=transparent&bg_color=111827&title_color=42A5F5&text_color=F9FEFD&icon_color=42A5F5&border_color=1E3A5F&hide_border=false" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancamcvillada&layout=compact&theme=transparent&bg_color=111827&title_color=42A5F5&text_color=F9FEFD&border_color=1E3A5F&hide_border=false" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancamcvillada&background=111827&stroke=1E3A5F&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5&sideLabels=F9FEFD&currStreakNum=F9FEFD&sideNums=F9FEFD&dates=8B98A8&border=1E3A5F" alt="GitHub streak"/>
 </p>
 
@@ -59,11 +57,14 @@
 
 ## `// TRANSMISSION`
 
-Contenido sobre bases del desarrollo, vida de ingeniero y mentalidad dev — no solo código, sino el proceso completo de construir una carrera en tech.
+Contenido sobre bases del desarrollo, vida de ingeniero y mentalidad dev — no solo código, sino el proceso completo de construir.
 
 <p align="center">
   <a href="https://instagram.com/devbyjuan">
     <img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=42A5F5" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juan-camilo-correa-villada">
+    <img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=42A5F5" alt="LinkedIn"/>
   </a>
   <a href="https://tiktok.com/@devbyjuan">
     <img src="https://img.shields.io/badge/-TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=42A5F5" alt="TikTok"/>

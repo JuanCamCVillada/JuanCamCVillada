@@ -2,7 +2,7 @@
 
   <defs>
     <style>
-      .mono { font-family: 'DejaVu Sans Mono', 'JetBrains Mono', 'Consolas', 'Courier New', monospace; }
+      .mono { font-family: 'SF Mono', 'SFMono-Regular', 'Menlo', 'Consolas', monospace; }
     </style>
   </defs>
 
@@ -15,7 +15,7 @@
     <path d="M 980 584 L 980 614 L 950 614"/>
   </g>
 
-<text x="30" y="34" class="mono" font-size="11" fill="#8B98A8" letter-spacing="2">PILOT DOSSIER // 001</text>
+<text x="30" y="34" class="mono" font-size="11" fill="#8B98A8" letter-spacing="2">DEVELOPER DOSSIER // 001</text>
 <text x="970" y="34" class="mono" font-size="11" fill="#8B98A8" letter-spacing="1" text-anchor="end">SYNC RATE: STABLE</text>
 <g class="mono" font-size="6.5" fill="#42A5F5">
 <text x="40" y="70.0" xml:space="preserve">                                                                                               </text>
